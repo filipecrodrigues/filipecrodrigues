@@ -2,7 +2,7 @@
 </br>
 </br>
 
-## Portifolio web
+## Portifólio web
 <br>
 
 <a href = "https://fcrodrigues.com.br/#home" target="_blank">www.fcrodrigues.com.br</a>
