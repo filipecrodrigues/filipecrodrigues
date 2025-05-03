@@ -2,7 +2,12 @@
 </br>
 </br>
 
+## Portifolio web
+<br>
 
+<a href = "https://fcrodrigues.com.br/#home" target="_blank">www.fcrodrigues.com.br</a>
+</br>
+</br>
 
 ## Me chamo Filipe Cândido
 Sou Analista de Suporte com sólidas habilidades em desenvolvimento web que venho aprimorando constantemente. Atualmente trabalho na área de suporte técnico e estou cursando Engenharia de Software pela Universidade Anhanguera, possuo conhecimentos em diversas tecnologias de desenvolvimento frontend e backend.
@@ -40,7 +45,7 @@ Sou Analista de Suporte com sólidas habilidades em desenvolvimento web que venh
 Analista de Suporte Técnico - Forneço soluções para problemas técnicos, gerencio tickets e ofereço assistência aos usuários finais.
 
 # Objetivos
-Estou em busca de oportunidades para aplicar minhas habilidades de desenvolvimento web, combinando minha experiência em suporte técnico com meus conhecimentos em programação.
+Estou em busca de oportunidades para aplicar minhas habilidades de desenvolvimento de software, combinando minha experiência em suporte técnico com meus conhecimentos em programação.
 ## Contatos:
 
 <div>
